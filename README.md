@@ -48,14 +48,3 @@ This serves as a foundational step toward Generative AI expertise, reinforcing c
   Place `heart-disease.csv` in the root (or update the notebook path).
 4. **Run the Notebook**:
   jupyter notebook Heart-disease-detection.ipynb
-
-## Project Structure
-heart-disease-prediction/
-├── Heart-disease-detection.ipynb      # Main notebook
-├── heart-disease.csv                 # Dataset
-├── heart-disease-mode.pkl            # Saved model
-├── requirements.txt                  # Dependencies
-├── README.md                         # You're reading it!
-└── images/                           # (Optional) Screenshots of plots
-    ├── model_compare.png
-    └── feature_importance.png
